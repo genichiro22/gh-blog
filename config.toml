@@ -8,7 +8,7 @@ enableRobotsTXT = true
 disqusShortname = "genichiro22"
 
 # ブログのタイトル
-title = "ビリヤニの律"
+title = "ビリヤニの理"
 
 theme = "mainroad"
 paginate = 20
