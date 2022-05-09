@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://genichiro22.github.io/gh-blogsitemap.xml
