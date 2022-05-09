@@ -5,6 +5,7 @@ languageCode = "ja"
 DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 enableRobotsTXT = true
+disqusShortname = "genichiro22"
 
 # ブログのタイトル
 title = "ビリヤニの律"
