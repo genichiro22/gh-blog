@@ -17,7 +17,7 @@ paginate = 20
 [Author]
     name = "Genichiro"
     bio = "分析、AWS、MLシステム、IoTあたりに関心があります。独学中心なので気ままに。"
-    avatar = "img/avatar.png"
+    avatar = "img/avatar.jpeg"
 
 [Params]
     customCSS = ["css/custom.css"]
