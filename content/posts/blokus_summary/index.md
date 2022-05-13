@@ -3,8 +3,8 @@ title: "BlokusというゲームのAIを作りたい"
 date: 2022-05-13
 categories: ["Blokus"]
 tags: ["強化学習", "Blokus", "MLOps"]
-draft: true
-#menu: main
+#draft: true
+menu: main
 ---
 Blokusというゲームと、そのAIを実装したい。
 と思って2年以上経っても強化学習の勉強があまり進まなかったので、ここで自分なりに目標と必要なことを整理してみます（随時更新）。
