@@ -1,8 +1,8 @@
 ---
-title: "BlokusというゲームのAIを作りたい"
+title: "Blokus"
 date: 2022-05-13
 categories: ["Blokus"]
-tags: ["強化学習", "Blokus", "MLOps"]
+tags: ["強化学習", "MLOps"]
 #draft: true
 menu: main
 ---
